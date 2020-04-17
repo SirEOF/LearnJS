@@ -176,6 +176,7 @@ b.addNode(10);
 b.addNode(1);
 b.addNode(19);
 b.addNode(2);
+console.log("....Binary Search Tree....\n")
 
 console.log("Tree contents:\n----------");
 console.log(b.allElements());
